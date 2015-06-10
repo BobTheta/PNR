@@ -1,0 +1,22 @@
+the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 20
+http://baike.baidu.com/subview/68978/15764089.htm#viewPageContent:::X战警（X战警系列电影）||:::http://movie.douban.com/subject/10485647/:::X战警：逆转未来 X-Men: Days of Future Past (2014)
+the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 23
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 24
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 25
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 26
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 27
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 31
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 69
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 70
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 74
+http://baike.baidu.com/view/442490.htm:刘诗诗

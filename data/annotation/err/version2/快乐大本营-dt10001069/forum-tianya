@@ -1,0 +1,6 @@
+the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 384
+http://baike.baidu.com/view/1579815.htm:::宋茜||http://movie.douban.com/subject_search?search_text=%E5%AE%8B%E8%8C%9C&cat=1002:::http://movie.douban.com/celebrity/1315608/:::宋茜 Victoria Song
+the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 384
+http://baike.baidu.com/view/1579815.htm:::宋茜||http://movie.douban.com/subject_search?search_text=%E5%AE%8B%E8%8C%9C&cat=1002:::http://movie.douban.com/celebrity/1315608/:::宋茜 Victoria Song

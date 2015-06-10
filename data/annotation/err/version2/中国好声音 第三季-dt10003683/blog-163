@@ -1,0 +1,43 @@
+the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 4
+http://baike.baidu.com/subview/53936/5245010.htm:::http://baike.baidu.com/subview/53936/5245010.htm:::勇气the err statement is : 39: mention,link = re.split('<',annotation)
+the comment_id is 8
+魏然<http://baike.baidu.com/subview/447639/15331801.htm:::魏然（[[中国好声音第三季<http://baike.baidu.com/view/10791892.htm:::中国好声音第三季||http://movie.douban.com/subject/25903028/:::中国好声音 第三季 (2014)学员>
+the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 13
+http://baike.baidu.com/subview/854501/11126148.htm快乐男声（湖南卫视大众歌手原创偶像选秀）the err statement is : 39: mention,link = re.split('<',annotation)
+the comment_id is 33
+张智勇<http://baike.baidu.com/subview/1438006/15726983.htm:::张智勇（[[中国好声音第三季<http://baike.baidu.com/view/10791892.htm:::中国好声音第三季||http://movie.douban.com/subject/25903028/:::中国好声音 第三季 (2014)>
+the err statement is : 39: mention,link = re.split('<',annotation)
+the comment_id is 33
+张智勇<http://baike.baidu.com/subview/1438006/15726983.htm:::张智勇（[[中国好声音第三季<http://baike.baidu.com/view/10791892.htm:::中国好声音第三季||http://movie.douban.com/subject/25903028/:::中国好声音 第三季 (2014)>
+the err statement is : 39: mention,link = re.split('<',annotation)
+the comment_id is 33
+李维<http://baike.baidu.com/subview/149960/4995492.htm:::李维（[[中国好声音第三季<http://baike.baidu.com/view/10791892.htm:::中国好声音第三季||http://movie.douban.com/subject/25903028/:::中国好声音 第三季 (2014)>
+the err statement is : 39: mention,link = re.split('<',annotation)
+the comment_id is 33
+李维<http://baike.baidu.com/subview/149960/4995492.htm:::李维（[[中国好声音第三季<http://baike.baidu.com/view/10791892.htm:::中国好声音第三季||http://movie.douban.com/subject/25903028/:::中国好声音 第三季 (2014)>
+the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 33
+http://baike.baidu.com/subview/10459092/14878182.htm:::||罗景文（电视节目《中国好声音》第三季学员）
+the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 33
+http://baike.baidu.com/subview/10459092/14878182.htm:::||罗景文（电视节目《中国好声音》第三季学员）
+the err statement is : 39: mention,link = re.split('<',annotation)
+the comment_id is 33
+魏然<http://baike.baidu.com/subview/447639/15331801.htm:::魏然（[[中国好声音第三季<http://baike.baidu.com/view/10791892.htm:::中国好声音第三季||http://movie.douban.com/subject/25903028/:::中国好声音 第三季 (2014)>
+the err statement is : 39: mention,link = re.split('<',annotation)
+the comment_id is 33
+魏然<http://baike.baidu.com/subview/447639/15331801.htm:::魏然（[[中国好声音第三季<http://baike.baidu.com/view/10791892.htm:::中国好声音第三季||http://movie.douban.com/subject/25903028/:::中国好声音 第三季 (2014)>
+the err statement is : 39: mention,link = re.split('<',annotation)
+the comment_id is 33
+王卓<http://baike.baidu.com/subview/138112/15426163.htm:::王卓（[[中国好声音第三季<http://baike.baidu.com/view/10791892.htm:::中国好声音第三季||http://movie.douban.com/subject/25903028/:::中国好声音 第三季 (2014)>
+the err statement is : 39: mention,link = re.split('<',annotation)
+the comment_id is 33
+由美<http://baike.baidu.com/subview/1744266/15335048.htm:::由美（[[中国好声音第三季<http://baike.baidu.com/view/10791892.htm:::中国好声音第三季||http://movie.douban.com/subject/25903028/:::中国好声音 第三季 (2014)>
+the err statement is : 39: mention,link = re.split('<',annotation)
+the comment_id is 33
+李琪<http://baike.baidu.com/subview/217484/15103592.htm:::李琪（[[中国好声音第三季<http://baike.baidu.com/view/10791892.htm:::中国好声音第三季||http://movie.douban.com/subject/25903028/:::中国好声音 第三季 (2014)>
+the err statement is : 39: mention,link = re.split('<',annotation)
+the comment_id is 33
+刘珂<http://baike.baidu.com/subview/276943/15103629.htm:::刘珂（[[中国好声音第三季<http://baike.baidu.com/view/10791892.htm:::中国好声音第三季||http://movie.douban.com/subject/25903028/:::中国好声音 第三季 (2014)>

@@ -1,0 +1,27 @@
+the err statement is : 39: mention,link = re.split('<',annotation)
+the comment_id is 2
+杨阳洋<http://baike.baidu.com/subview/303962/13491628.htm?fromtitle=%E6%9D%A8%E9%98%B3%E6%B4%8B&fromid=14589621&type=syn:::杨文昌（奥运冠军[[杨威<http://baike.baidu.com/subview/34762/5095216.htm:::杨威（原中国体操运动员、奥运冠军）||http://movie.douban.com/celebrity/1007930/:::杨威 Wei Yang>
+the err statement is : 39: mention,link = re.split('<',annotation)
+the comment_id is 2
+杨阳洋<http://baike.baidu.com/subview/303962/13491628.htm?fromtitle=%E6%9D%A8%E9%98%B3%E6%B4%8B&fromid=14589621&type=syn:::杨文昌（奥运冠军[[杨威<http://baike.baidu.com/subview/34762/5095216.htm:::杨威（原中国体操运动员、奥运冠军）||http://movie.douban.com/celebrity/1007930/:::杨威 Wei Yang>
+the err statement is : 39: mention,link = re.split('<',annotation)
+the comment_id is 7
+张江<http:/[[张江<http://baike.baidu.com/subview/579767/15334956.htm:::张江（中国好声音学员）||>
+the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 9
+http://baike.baidu.com/view/14387943.htm:::叶晴晴:::叶晴晴the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 9
+http://baike.baidu.com/view/14387943.htm:::叶晴晴:::叶晴晴the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 9
+http://baike.baidu.com/view/14387943.htm:::叶晴晴:::叶晴晴the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 10
+http://baike.baidu.com/view/10791892.htm:::中国好声音 第三季 (2014)
+the err statement is : 39: mention,link = re.split('<',annotation)
+the comment_id is 10
+那英<http://baike.baidu.com/view/18282.htm:::那英||http://movie.douban.com/celebrity/1040056/:::那英 Ying Na>]果断请来了同样走情歌路线的“情歌王子”[[阿哲<http://baike.baidu.com/view/5439.htm:::张信哲||http://movie.douban.com/celebrity/1198234/:::张信哲 Jeff Chang>
+the err statement is : 39: mention,link = re.split('<',annotation)
+the comment_id is 10
+那英<http://baike.baidu.com/view/18282.htm:::那英||http://movie.douban.com/celebrity/1040056/:::那英 Ying Na>]兴奋而感动，“这次看到[[阿哲<http://baike.baidu.com/view/5439.htm:::张信哲||http://movie.douban.com/celebrity/1198234/:::张信哲 Jeff Chang>
+the err statement is : 39: mention,link = re.split('<',annotation)
+the comment_id is 10
+好声音<http://baike.baidu.com/view/10791892.htm:::[[中国好声音第三季<http://baike.baidu.com/view/10791892.htm:::中国好声音第三季||http://movie.douban.com/subject/25903028/:::中国好声音 第三季 (2014)>

@@ -1,0 +1,101 @@
+the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 1
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 1
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 1
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 1
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 1
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 3
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 3
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 3
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 3
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 3
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 3
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 4
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 4
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 4
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 4
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 4
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 4
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 4
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 4
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 4
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 4
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 4
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 4
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 4
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 4
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 8
+http://baike.baidu.com/view/13951088.htm:::床下有人2||http://movie.douban.com/subject/25910152/::;床下有人2 (2014)
+the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 8
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 8
+http://baike.baidu.com/view/355019.htm:汤唯the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 8
+http://baike.baidu.com/view/13940.htm:::佟大为||http://movie.douban.com/celebrity/1009179/佟大为 Dawei Tong
+the err statement is : 39: mention,link = re.split('<',annotation)
+the comment_id is 8
+空中营救<http://baike.baidu.com/view/14726387.htm:::空中营救||http://movie.douban.com/subject/10598440/?suggest=%E7%A9%BA%E4%B8%AD%E8%90%A5%E6%95%91:::空中营救 Non-Stop (2014)>#空难题材历经多年形色万千的电影后，实质剧情以近枯竭，甚至需依靠僵尸怪兽等这些另类元素来营造所谓的噱头卖点，但《[[空中营救<http://baike.baidu.com/view/14726387.htm:::空中营救||http://movie.douban.com/subject/10598440/?suggest=%E7%A9%BA%E4%B8%AD%E8%90%A5%E6%95%91:::空中营救 Non-Stop (2014)>
+the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 8
+http://baike.baidu.com/view/31743.htm:::袁咏仪||http://movie.douban.com/celebrity/1050693/：：：袁咏仪 Anita Yuen
+the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 8
+http://baike.baidu.com/view/31743.htm:::袁咏仪||http://movie.douban.com/celebrity/1050693/：：：袁咏仪 Anita Yuen
+the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 8
+http://baike.baidu.com/view/31743.htm:::袁咏仪||http://movie.douban.com/celebrity/1050693/：：：袁咏仪 Anita Yuen
+the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 9
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 9
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 9
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 9
+扑通扑通我的人生the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 11
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 11
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 16
+http://baike.baidu.com/view/15151.htm:::久石让http://movie.douban.com/celebrity/1035647/:::久石让 Joe Hisaishithe err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 17
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 17
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 17
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 19
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 21
+http://baike.baidu.com/view/331438.htm?fromtitle=%E4%B9%9D%E9%BE%99%E7%8F%A0&fromid=5164972&type=syn::剑勇传说the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 22
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 22
+http://baike.baidu.com/view/442490.htm:刘诗诗

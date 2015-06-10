@@ -1,0 +1,5 @@
+the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 9
+http://baike.baidu.com/subview/54021/5450252.htm奋斗the err statement is : 39: mention,link = re.split('<',annotation)
+the comment_id is 9
+海岩<http://baike.baidu.com/view/31403.htm:::海岩||http://movie.douban.com/cel《[[五星大饭店<http://baike.baidu.com/subview/1238764/7587214.htm:::五星大饭店（2005年刘心刚执导电视连续剧）||http://movie.douban.com/subject/2301064/:::五星大饭店 (2007)>

@@ -1,0 +1,9 @@
+the err statement is : 39: mention,link = re.split('<',annotation)
+the comment_id is 7
+天天向上<http://baike.baidu.com/subview/592578/7361364.htm:::天天向上（湖南卫视娱乐节目）||http:[[huang lei<http://baike.baidu.com/subview/3972/5540807.htm:::黄磊||http://movie.douban.com/celebrity/1037715/:::黄磊 Lei Huang>
+the err statement is : 39: mention,link = re.split('<',annotation)
+the comment_id is 8
+姐姐<http://baike.baidu.com/view/13094214.htm?fromtitle=[[grace<http://baike.baidu.com/view/13094214.htm?fromtitle=Grace&fromid=14609480&type=syn:::曹华恩||http://movie.douban.com/celebrity/1341395/:::曹华恩 Grace>
+the err statement is : 39: mention,link = re.split('<',annotation)
+the comment_id is 18
+zhu han mo<http://baike.baidu.com/subview/9886933/16820773.htm:::朱翰墨（[[变形计第九季<http://baike.baidu.com/subview/471358/16547740.htm:::变形计（湖南卫视生活类角色互换节目）||http://movie.douban.com/subject/25926838/:::变形计 第九季 (2014)>

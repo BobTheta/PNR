@@ -1,0 +1,32 @@
+the err statement is : 39: mention,link = re.split('<',annotation)
+the comment_id is 1
+高达百米的狂涛巨浪组成的海墙，但大自然依然将船上6个英雄好汉轻轻一掌便打入浪底，巨轮颠覆，机毁人亡。与此同时，片中参与营救的气象学家们惊叹，billy船长这次遭遇的是一个绝对完美的风暴，所以他和他的船在劫难逃。大自然的“完美”行为是不以人类的意愿为转移的，常常给人类带来不可逾越的灾难。但是，有时大自然也会用自己的“完美”表现来愉悦人类，当然这种机会是可遇而不可求的。几天以前，我在加勒比海上就亲眼目睹了一次太阳与乌云博弈的“完美日出”。    以往看日出都是匆匆起床,走在没有光亮的路上,要赶在日出之前,或爬上山顶或走到海边,去等待东方那一抹亮光的出现，而这次看日出却不需要这么辛苦了。当东方露出鱼肚色时，我来到邮轮顶层甲板上，四周一片寂静，只隐约听到邮轮发动机的突突声。几分钟后，天海的分界線一點一點分明，天空一點一點地放亮，就在凝視之中，船头正对的海平线渐渐泛出红色。  9月3号我们在佛罗里达州东南部的海滨城市迈阿密登上carnival公司幻想号邮轮，开始了加勒比海之旅。现代邮轮就像是一座流动的大型酒店，生活、娱乐设施一应俱全，在4夜5天的行程中，我们除了在船上尽情吃喝玩乐、下船后尽兴游玩以外，还有一个活动就是看海上日出日落。        重重黑云压着刚露出水面的太阳，然而太阳却顶着黑云在海平线上一步一步往上爬，它那势不可挡的光芒突破黑云的重围,反倒替黑云镶上一道绚丽的金边。      太阳一边与黑云博弈，一边把它的万丈光芒撒向四方，天空被染成一片金黄，我在这一片金黄中仿佛看到瑶池仙境，看到玉皇大帝的金銮殿，甚至还看见了孙悟空的筋斗云。 但是那红色的周围朵朵乌云密布，正当我心里有些发凉，担心看不到红日跃出水面的壮观场景时，刹间一道金光从海平面的边缘射向天空，天上的云朵也随之由白色变成了金黄色，在海风的吹动下，一大片绚丽夺目的彩霞飞了起来。我惊呆了，在我面前分明出现了一副波澜壮阔的画卷，我激动了，举起像机尽情地拍摄下这可遇而不可求的美景，欲把这瞬息万变的景色一个个的凝固起来，让更多人来分享。    在我目光所及的360度范围内，无论把镜头指向哪里，都会收获一幅幅美妙绝伦的水墨画。我看见晶莹剔透的雪山，蔚蓝的湖泊；我还看见龙飞凤舞，龙腾虎跃；展现在我面前的一会儿是浪漫的田园牧歌，一会儿又像是风云滚滚的星球大战......   白云却与海上的浮云追逐着，嬉戏着，一副与世无争悠闲自得的模样。 太阳还在与黑云较量，一会儿露出挣得发白的脸，一会儿又淹没在黑云中，但是它始终没有忘记把光辉洒向天空海洋http://www.dlyumaoqiu.com/。彩云蹦着、跳着，摇旗呐喊，为太阳加油助阵。     太阳终于升起来了http://www.golf0411.com/！大连豪华进口游艇和曦的阳光撒满邮轮，公平地照在每一个人的身上。   有人在祈祷，他们是不是在祈求上天帮助太阳战胜黑云，让阳光普照人间呢http://www.dlxiusuo.com/？大连活动执行大连注册公司      邮轮停靠在墨西哥的cozumel，风情万钟的小岛张开臂膀迎接我们，快乐的一天又开始了！   我的更多文章： [转载]云中飞强烈推荐：海大师：我的很多观点无法实现 [转载]湖北省黄梅县第一中学百年校庆海内外有奖征联 [转载][[飞轮海<http://baike.baidu.com/view/9413.htm:::飞轮海||>]再传解散 [[炎亚纶<http://baike.baidu.com/view/33186.htm:::炎亚纶||http://movie.douban.com/celebrity/1275315/:::炎亚纶 Aaron>
+the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 3
+http://baike.baidu.com/subview/80898/5111966.htm:::彭宇（综艺节目主持人）http://movie.douban.com/celebrity/1329906/:::彭宇 Yu Pengthe err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 5
+http://baike.baidu.com/view/6283.htm:::高桥留美子||http://movie.douban.com/celebrity/1156097/
+the err statement is : 39: mention,link = re.split('<',annotation)
+the comment_id is 8
+grace<http://baike.baidu.com/view/13094214.htm?fromtitle=Grace&fromid=14609480&type=syn:::||>]也为整个节目增色不少。在第一期节目中，[[吴速玲<http://baike.baidu.com/view/2892112.htm:::吴速玲||>
+the err statement is : 21: comment = re.findall(r'(?<="content":).*',line)[0].strip(r'"')
+the comment_id is 10
+
+the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 11
+http://baike.baidu.com/view/15679.htm:::胡歌||http://movie.douban.com/celebrity/1274477/
+the err statement is : 39: mention,link = re.split('<',annotation)
+the comment_id is 11
+http://movie.douban.com/celebrity/1022616/:::詹妮弗·劳伦斯 Jennifer Lawrence||>
+the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 14
+http://baike.baidu.com/view/15679.htm:::胡歌||http://movie.douban.com/celebrity/1274477/
+the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 14
+http://baike.baidu.com/view/15679.htm:::胡歌||http://movie.douban.com/celebrity/1274477/
+the err statement is : 21: comment = re.findall(r'(?<="content":).*',line)[0].strip(r'"')
+the comment_id is 15
+
+the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 16
+|http://baike.baidu.com/view/16576.htm:::张曼玉|http://movie.douban.com/celebrity/1274231/:::张曼玉 Maggie Cheung

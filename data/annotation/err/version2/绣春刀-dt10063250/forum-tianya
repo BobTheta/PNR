@@ -1,0 +1,5 @@
+the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 189
+http://baike.baidu.com/view/355019.htm:汤唯the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 239
+http://baike.baidu.com/view/355019.htm:汤唯

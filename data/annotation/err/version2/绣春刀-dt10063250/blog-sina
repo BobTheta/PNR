@@ -1,0 +1,46 @@
+the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 1
+http://baike.baidu.com/subview/9958/6592451.htm#viewPageContent:::苍蝇（80年代电影）::;苍蝇 A Légy (1981)||http://movie.douban.com/subject/1457905/
+the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 8
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 10
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 10
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 11
+http://baike.baidu.com/view/14174984.htm:::冰川时代2：融冰之灾
+the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 14
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 14
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 14
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 14
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 14
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 16
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 16
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 16
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 16
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 16
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 16
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 16
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 16
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 16
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 17
+http://baike.baidu.com/view/14174984.htm:::冰川时代2：融冰之灾
+the err statement is : 39: mention,link = re.split('<',annotation)
+the comment_id is 20
+街霸：暗杀拳<<http://baike.baidu.com/view/12877301.htm:::街头霸王：暗杀拳||http://movie.douban.com/subject/25835197/:::街头霸王：暗杀拳 Street Fighter Assassin's Fist (2014)>

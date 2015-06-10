@@ -1,0 +1,57 @@
+the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 8
+http://baike.baidu.com/view/9209.htm:::范冰冰||http://movie.douban.com/celebrity/1050059/范冰冰 Bingbing Fan
+the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 12
+http://baike.baidu.com/subview/149960/4995492.htm:::李维中国好声音 第三季学员
+the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 12
+http://baike.baidu.com/subview/149960/4995492.htm:::李维中国好声音 第三季学员
+the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 12
+http://baike.baidu.com/subview/149960/4995492.htm:::李维中国好声音 第三季学员
+the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 14
+http://baike.baidu.com/subview/149960/4995492.htm:::李维中国好声音 第三季学员
+the err statement is : 39: mention,link = re.split('<',annotation)
+the comment_id is 14
+<http://baike.baidu.com/subview/10416075/14806308.htm:::[[夏恒<http://baike.baidu.com/subview/10416075/14806308.htm:::夏恒||>
+the err statement is : 39: mention,link = re.split('<',annotation)
+the comment_id is 14
+张智勇<http://baike.baidu.com/subview/1438006/15726983.htm:::张智勇（中国[[中国好声音第三季<http://baike.baidu.com/view/10791892.htm:::中国好声音第三季||http://movie.douban.com/subject/25903028/:::中国好声音 第三季 (2014)>
+the err statement is : 39: mention,link = re.split('<',annotation)
+the comment_id is 14
+陈直<http://baike.baidu.com/subview/1606828/14866470.htm:::陈直（中国[[中国好声音第三季<http://baike.baidu.com/view/10791892.htm:::中国好声音第三季||http://movie.douban.com/subject/25903028/:::中国好声音 第三季 (2014)>
+the err statement is : 39: mention,link = re.split('<',annotation)
+the comment_id is 14
+刘珂<http://baike.baidu.com/subview/276943/15103629.htm:::刘珂（中国[[中国好声音第三季<http://baike.baidu.com/view/10791892.htm:::中国好声音第三季||http://movie.douban.com/subject/25903028/:::中国好声音 第三季 (2014)>
+the err statement is : 39: mention,link = re.split('<',annotation)
+the comment_id is 14
+郑心慈<http://baike.baidu.com/view/9910043.htm:::郑心慈||>} 火柴天堂 [[申钰林<http://baike.baidu.com/view/3577796.htm:::申钰林||>
+the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 36
+http://baike.baidu.com/subview/149960/4995492.htm:::李维中国好声音 第三季学员
+the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 37
+http://baike.baidu.com/subview/149960/4995492.htm:::李维中国好声音 第三季学员
+the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 37
+http://baike.baidu.com/subview/149960/4995492.htm:::李维中国好声音 第三季学员
+the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 37
+http://baike.baidu.com/subview/149960/4995492.htm:::李维中国好声音 第三季学员
+the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 39
+http://baike.baidu.com/subview/149960/4995492.htm:::李维中国好声音 第三季学员
+the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 39
+http://baike.baidu.com/subview/149960/4995492.htm:::李维中国好声音 第三季学员
+the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 39
+http://baike.baidu.com/subview/149960/4995492.htm:::李维中国好声音 第三季学员
+the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 39
+http://baike.baidu.com/subview/149960/4995492.htm:::李维中国好声音 第三季学员
+the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 39
+http://baike.baidu.com/subview/149960/4995492.htm:::李维中国好声音 第三季学员

@@ -1,0 +1,5 @@
+the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 36
+http://baike.baidu.com/subview/854501/11126148.htm快乐男声（湖南卫视大众歌手原创偶像选秀）the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 37
+http://baike.baidu.com/view/2546053.htm:::徐海星||徐海星

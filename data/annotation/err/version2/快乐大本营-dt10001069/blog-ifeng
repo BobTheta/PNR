@@ -1,0 +1,9 @@
+the err statement is : 39: mention,link = re.split('<',annotation)
+the comment_id is 7
+谢娜<http://baike.baidu.com/view/35410.htm:::谢娜||http://movie.douban.com/celebrity/1274270/:::谢娜 Na Xie有点无厘头式的主持风格，她的娱乐精神是娱乐圈少有的。 金鹰节的工作人员无疑是绝对的专业，他们请[[谢娜<http://baike.baidu.com/view/35410.htm:::谢娜||http://movie.douban.com/celebrity/1274270/:::谢娜 Na Xie>
+the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 13
+http://baike.baidu.com/subview/76239/9204745.htm:::康熙王朝||http://movie.douban.com/subject/1830590/康熙王朝 (2001)
+the err statement is : 39: mention,link = re.split('<',annotation)
+the comment_id is 19
+蒋雯丽<http://baike.baidu.com/view/109360.htm:::蒋雯丽||http://movie.douban.com/celebrity/1020487/:::蒋雯丽 Wenli Jiang>]却日渐比他牛气起来，先是片酬稳坐内地第一电视女演员的宝座，而电影方面她又是国际影后，又是做导演，明显的比下[[顾长卫<http://baike.baidu.com/view/372948.htm:::顾长卫||http://movie.douban.com/celebrity/1037747/:::顾长卫 Changwei Gu>

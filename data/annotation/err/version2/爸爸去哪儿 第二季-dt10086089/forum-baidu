@@ -1,0 +1,6 @@
+the err statement is : 21: comment = re.findall(r'(?<="content":).*',line)[0].strip(r'"')
+the comment_id is 5
+{"comme《[[开学第一课<http://baike.baidu.com/subview/1833975/12521396.htm:::开学第一课（中央电视台大型电视公益节目）||http://movie.douban.com/subject/25985652/:::开学第一课 (2008)>]]》，其中让儿子记忆最深的就是子欲养而亲不待，爸，儿子看到这再也忍不住掉下来眼泪，您说如果您健在儿子该多么"
+the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 23
+http://baike.baidu.com/subview/10889450/11296903.htm:::爸爸去哪儿（湖南卫视亲子互动真人秀）

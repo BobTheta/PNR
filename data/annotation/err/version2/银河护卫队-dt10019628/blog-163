@@ -1,0 +1,15 @@
+the err statement is : 39: mention,link = re.split('<',annotation)
+the comment_id is 6
+速度与激情<http://baike.baidu.com/subview/74891/6573113.htm:::速度与激情||http://movie.douban.com/subject/1304899/:::速度与激情 The Fast and the Furious (2001)>]》的小黑，《妇联》的钢铁侠。唯独罕见《[[银河护卫队<http://baike.baidu.com/view/9122955.htm:::银河护卫队||http://movie.douban.com/subject/7065154/:::银河护卫队 Guardians of the Galaxy (2014)>
+the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 12
+http://baike.baidu.com/view/8462445.htm:::电影43||http://movie.douban.com/subject/3318306/电影43 Movie 43 (2013)
+the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 12
+http://baike.baidu.com/view/2789436.htm:::盗梦空间||http://movie.douban.com/subject/3541415/盗梦空间 Inception (2010)
+the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 19
+http://baike.baidu.com/view/13940.htm:::佟大为||http://movie.douban.com/celebrity/1009179/佟大为 Dawei Tong
+the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 21
+http://baike.baidu.com/view/15155825.htm:::肖恩·冈||http://movie.douban.com/celebrity/1022552/肖恩·冈 Sean Gunn

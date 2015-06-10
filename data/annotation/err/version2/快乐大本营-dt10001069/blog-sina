@@ -1,0 +1,29 @@
+the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 2
+http://baike.baidu.com/subview/11524674/13600901.htm:::超级先生（安徽卫视好男人励志成长真人秀节目）|| 
+the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 14
+http://baike.baidu.com/subview/14128/5621312.htm:::田亮http://movie.douban.com/celebrity/1274859/:::田亮 Liang Tianthe err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 14
+http://baike.baidu.com/view/665438.htm:::邹市明:::the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 14
+http://baike.baidu.com/view/665438.htm:::邹市明:::the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 15
+http://baike.baidu.com/subview/14128/5621312.htm:::田亮http://movie.douban.com/celebrity/1274859/:::田亮 Liang Tianthe err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 31
+http://baike.baidu.com/subview/11524674/13600901.htm:::超级先生（安徽卫视好男人励志成长真人秀节目）|| 
+the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 33
+http://baike.baidu.com/subview/189057/5338419.htm::::::宋佳the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 35
+http://baike.baidu.com/subview/1084016/13486571.htmthe err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 35
+http://baike.baidu.com/subview/1084016/13486571.htmthe err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 35
+http://baike.baidu.com/view/5745937.htm:::年代秀||http://movie.douban.com/subject/25947525/
+the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 35
+http://baike.baidu.com/view/5745937.htm:::年代秀||http://movie.douban.com/subject/25947525/
+the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 35
+http://baike.baidu.com/subview/1084016/13486571.htm

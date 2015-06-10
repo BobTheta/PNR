@@ -1,0 +1,11 @@
+the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 3
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 8
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 14
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 22
+http://baike.baidu.com/view/442490.htm:刘诗诗the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 25
+http://baike.baidu.com/view/442490.htm:刘诗诗

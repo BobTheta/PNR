@@ -1,0 +1,22 @@
+the err statement is : 39: mention,link = re.split('<',annotation)
+the comment_id is 4
+张碧晨<http://baike.baidu.com/view/10319533.htm:::张碧晨||>}的key，而制约了[[魏雪漫<http://baike.baidu.com/view/456060.htm:::魏雪漫||>
+the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 4
+http://baike.baidu.com/view/1000595.htm:::杨宗纬||http://movie.douban.com/celebrity/1348453/杨宗纬 Aska Yang
+the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 4
+http://baike.baidu.com/view/14696740.htm:::李嘉格:::the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 4
+http://baike.baidu.com/view/14696740.htm:::李嘉格:::the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 4
+http://baike.baidu.com/view/14696740.htm:::李嘉格:::the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 4
+http://baike.baidu.com/view/14696740.htm:::李嘉格:::the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 4
+http://baike.baidu.com/view/14696740.htm:::李嘉格:::the err statement is : 21: comment = re.findall(r'(?<="content":).*',line)[0].strip(r'"')
+the comment_id is 16
+
+the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 20
+http://baike.baidu.com/subview/360428/15675522.htm:::

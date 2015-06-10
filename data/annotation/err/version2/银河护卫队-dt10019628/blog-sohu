@@ -1,0 +1,3 @@
+the err statement is : 39: mention,link = re.split('<',annotation)
+the comment_id is 4
+安娜<http://baike.baidu.com/view/2853272.htm:::安娜·肯德里克||http://movie.douban.com/celebrity/1013789/:::安娜·肯德里克 Anna Kendrick>]看起来比她的实际年龄要小得多。从《[[暮光之城<http://baike.baidu.com/subview/1738736/5459337.htm#viewPageContent:::暮光之城||http://movie.douban.com/subject/2268359/:::暮光之城 Twilight (2008)>

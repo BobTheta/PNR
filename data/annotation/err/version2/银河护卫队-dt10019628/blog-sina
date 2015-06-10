@@ -1,0 +1,21 @@
+the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 9
+http://baike.baidu.com/view/590828.htm:::张俪||http://movie.douban.com/celebrity/1316159/张俪 Li Zhang
+the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 10
+http://baike.baidu.com/subview/1103510/10854431.htm#viewPageContent:::浑身是劲劲（1984年美国电影）||http://movie.douban.com/subject/1296045/浑身是劲 Footloose (1984)
+the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 11
+http://baike.baidu.com/view/8462445.htm:::电影43||http://movie.douban.com/subject/3318306/电影43 Movie 43 (2013)
+the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 11
+http://baike.baidu.com/view/2789436.htm:::盗梦空间||http://movie.douban.com/subject/3541415/盗梦空间 Inception (2010)
+the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 13
+http://baike.baidu.com/view/13940.htm:::佟大为||http://movie.douban.com/celebrity/1009179/佟大为 Dawei Tong
+the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 15
+http://baike.baidu.com/view/590828.htm:::张俪||http://movie.douban.com/celebrity/1316159/张俪 Li Zhang
+the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 20
+http://baike.baidu.com/view/590828.htm:::张俪||http://movie.douban.com/celebrity/1316159/张俪 Li Zhang

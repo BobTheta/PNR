@@ -1,0 +1,71 @@
+the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 2
+http://baike.baidu.com/view/8925034.htm?fromtitle=%E6%88%91%E4%BB%AC%E7%BA%A6%E4%BC%9A%E5%90%A7&fromid=186&type=syn:::我们约会吧||http://movie.douban.com/subject/5332621/:::我们约会吧 (2011):::我们约会吧 (2011)
+the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 4
+http://baike.baidu.com/view/8925034.htm?fromtitle=%E6%88%91%E4%BB%AC%E7%BA%A6%E4%BC%9A%E5%90%A7&fromid=186&type=syn:::我们约会吧||http://movie.douban.com/subject/5332621/:::我们约会吧 (2011):::我们约会吧 (2011)
+the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 5
+http://baike.baidu.com/view/8925034.htm?fromtitle=%E6%88%91%E4%BB%AC%E7%BA%A6%E4%BC%9A%E5%90%A7&fromid=186&type=syn:::我们约会吧||http://movie.douban.com/subject/5332621/:::我们约会吧 (2011):::我们约会吧 (2011)
+the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 6
+http://baike.baidu.com/view/8925034.htm?fromtitle=%E6%88%91%E4%BB%AC%E7%BA%A6%E4%BC%9A%E5%90%A7&fromid=186&type=syn:::我们约会吧||http://movie.douban.com/subject/5332621/:::我们约会吧 (2011):::我们约会吧 (2011)
+the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 7
+http://baike.baidu.com/view/8925034.htm?fromtitle=%E6%88%91%E4%BB%AC%E7%BA%A6%E4%BC%9A%E5%90%A7&fromid=186&type=syn:::我们约会吧||http://movie.douban.com/subject/5332621/:::我们约会吧 (2011):::我们约会吧 (2011)
+the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 8
+http://baike.baidu.com/view/8925034.htm?fromtitle=%E6%88%91%E4%BB%AC%E7%BA%A6%E4%BC%9A%E5%90%A7&fromid=186&type=syn:::我们约会吧||http://movie.douban.com/subject/5332621/:::我们约会吧 (2011):::我们约会吧 (2011)
+the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 12
+http://baike.baidu.com/view/8925034.htm?fromtitle=%E6%88%91%E4%BB%AC%E7%BA%A6%E4%BC%9A%E5%90%A7&fromid=186&type=syn:::我们约会吧||http://movie.douban.com/subject/5332621/:::我们约会吧 (2011):::我们约会吧 (2011)
+the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 13
+http://baike.baidu.com/view/8925034.htm?fromtitle=%E6%88%91%E4%BB%AC%E7%BA%A6%E4%BC%9A%E5%90%A7&fromid=186&type=syn:::我们约会吧||http://movie.douban.com/subject/5332621/:::我们约会吧 (2011):::我们约会吧 (2011)
+the err statement is : 39: mention,link = re.split('<',annotation)
+the comment_id is 14
+grace<http://baike.baidu.com/view/13094214.htm?fromtitle=Grace&fromid=14609480&type=syn:::||>]、 [[[[杨威<http://baike.baidu.com/subview/34762/5095216.htm:::杨威（原中国体操运动员、奥运冠军）||http://movie.douban.com/celebrity/1007930/:::杨威 Wei Yang>
+the err statement is : 39: mention,link = re.split('<',annotation)
+the comment_id is 14
+杨阳洋<http://baike.baidu.com/subview/303962/13491628.htm?fromtitle=%E6%9D%A8%E9%98%B3%E6%B4%8B&fromid=14589621&type=syn:::杨文昌（奥运冠军[[杨威<http://baike.baidu.com/subview/34762/5095216.htm:::杨威（原中国体操运动员、奥运冠军）||http://movie.douban.com/celebrity/1007930/:::杨威 Wei Yang>
+the err statement is : 39: mention,link = re.split('<',annotation)
+the comment_id is 14
+grace<http://baike.baidu.com/view/13094214.htm?fromtitle=Grace&fromid=14609480&type=syn:::||>], and yang wei and son [[yang yang yang<http://baike.baidu.com/subview/303962/13491628.htm?fromtitle=%E6%9D%A8%E9%98%B3%E6%B4%8B&fromid=14589621&type=syn:::杨文昌（奥运冠军杨威之子）||http://movie.douban.com/celebrity/1340840/:::杨阳洋 YYY>
+the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 14
+http://baike.baidu.com/view/8925034.htm?fromtitle=%E6%88%91%E4%BB%AC%E7%BA%A6%E4%BC%9A%E5%90%A7&fromid=186&type=syn:::我们约会吧||http://movie.douban.com/subject/5332621/:::我们约会吧 (2011):::我们约会吧 (2011)
+the err statement is : 54: baike_url,baike_title = re.split(':::',pair[0])
+the comment_id is 15
+http://baike.baidu.com/view/665438.htm:::邹市明:::the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 15
+http://baike.baidu.com/view/8925034.htm?fromtitle=%E6%88%91%E4%BB%AC%E7%BA%A6%E4%BC%9A%E5%90%A7&fromid=186&type=syn:::我们约会吧||http://movie.douban.com/subject/5332621/:::我们约会吧 (2011):::我们约会吧 (2011)
+the err statement is : 39: mention,link = re.split('<',annotation)
+the comment_id is 16
+grace<http://baike.baidu.com/view/13094214.htm?fromtitle=Grace&fromid=14609480&type=syn:::||>]、 [[[[杨威<http://baike.baidu.com/subview/34762/5095216.htm:::杨威（原中国体操运动员、奥运冠军）||http://movie.douban.com/celebrity/1007930/:::杨威 Wei Yang>
+the err statement is : 39: mention,link = re.split('<',annotation)
+the comment_id is 16
+杨阳洋<http://baike.baidu.com/subview/303962/13491628.htm?fromtitle=%E6%9D%A8%E9%98%B3%E6%B4%8B&fromid=14589621&type=syn:::杨文昌（奥运冠军[[杨威<http://baike.baidu.com/subview/34762/5095216.htm:::杨威（原中国体操运动员、奥运冠军）||http://movie.douban.com/celebrity/1007930/:::杨威 Wei Yang>
+the err statement is : 39: mention,link = re.split('<',annotation)
+the comment_id is 16
+grace<http://baike.baidu.com/view/13094214.htm?fromtitle=Grace&fromid=14609480&type=syn:::||>], and yang wei and son [[yang yang yang<http://baike.baidu.com/subview/303962/13491628.htm?fromtitle=%E6%9D%A8%E9%98%B3%E6%B4%8B&fromid=14589621&type=syn:::杨文昌（奥运冠军杨威之子）||http://movie.douban.com/celebrity/1340840/:::杨阳洋 YYY>
+the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 16
+http://baike.baidu.com/view/8925034.htm?fromtitle=%E6%88%91%E4%BB%AC%E7%BA%A6%E4%BC%9A%E5%90%A7&fromid=186&type=syn:::我们约会吧||http://movie.douban.com/subject/5332621/:::我们约会吧 (2011):::我们约会吧 (2011)
+the err statement is : 39: mention,link = re.split('<',annotation)
+the comment_id is 17
+grace<http://baike.baidu.com/view/13094214.htm?fromtitle=Grace&fromid=14609480&type=syn:::||>]、 [[[[杨威<http://baike.baidu.com/subview/34762/5095216.htm:::杨威（原中国体操运动员、奥运冠军）||http://movie.douban.com/celebrity/1007930/:::杨威 Wei Yang>
+the err statement is : 39: mention,link = re.split('<',annotation)
+the comment_id is 17
+杨阳洋<http://baike.baidu.com/subview/303962/13491628.htm?fromtitle=%E6%9D%A8%E9%98%B3%E6%B4%8B&fromid=14589621&type=syn:::杨文昌（奥运冠军[[杨威<http://baike.baidu.com/subview/34762/5095216.htm:::杨威（原中国体操运动员、奥运冠军）||http://movie.douban.com/celebrity/1007930/:::杨威 Wei Yang>
+the err statement is : 39: mention,link = re.split('<',annotation)
+the comment_id is 17
+grace<http://baike.baidu.com/view/13094214.htm?fromtitle=Grace&fromid=14609480&type=syn:::||>], and yang wei and son [[yang yang yang<http://baike.baidu.com/subview/303962/13491628.htm?fromtitle=%E6%9D%A8%E9%98%B3%E6%B4%8B&fromid=14589621&type=syn:::杨文昌（奥运冠军杨威之子）||http://movie.douban.com/celebrity/1340840/:::杨阳洋 YYY>
+the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 17
+http://baike.baidu.com/view/8925034.htm?fromtitle=%E6%88%91%E4%BB%AC%E7%BA%A6%E4%BC%9A%E5%90%A7&fromid=186&type=syn:::我们约会吧||http://movie.douban.com/subject/5332621/:::我们约会吧 (2011):::我们约会吧 (2011)
+the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 18
+http://baike.baidu.com/view/8925034.htm?fromtitle=%E6%88%91%E4%BB%AC%E7%BA%A6%E4%BC%9A%E5%90%A7&fromid=186&type=syn:::我们约会吧||http://movie.douban.com/subject/5332621/:::我们约会吧 (2011):::我们约会吧 (2011)
+the err statement is : 78-79: if len(pair[1]) >0: douban_url,douban_title = re.split(':::',pair[1])
+the comment_id is 20
+http://baike.baidu.com/view/8925034.htm?fromtitle=%E6%88%91%E4%BB%AC%E7%BA%A6%E4%BC%9A%E5%90%A7&fromid=186&type=syn:::我们约会吧||http://movie.douban.com/subject/5332621/:::我们约会吧 (2011):::我们约会吧 (2011)
